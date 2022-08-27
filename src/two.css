@@ -4,7 +4,8 @@
     box-sizing: border-box;
     padding:20px 70px 50px 80px;
     margin:40px;
-    border: 10px solid black;
+    /* border: 10px solid black; */
+    border:10px dashed yellow;
 }
 
 h2 {
