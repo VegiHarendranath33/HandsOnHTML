@@ -6,6 +6,7 @@
     margin:40px;
     /* border: 10px solid black; */
     border:10px dashed yellow;
+    border-top:20px solid royalblue;
 }
 
 h2 {
